@@ -14,6 +14,20 @@ $wew = "wew";
     <title>Momonja</title>
 </head>
 <body>
+    <header class="header">
+        momonja
+    </header>
+    
+    <main class="main">
+        <div class="wrapper">
+            <h1>Hello! I'm momonja!</h1>
+        </div>
+    </main>
+
+    <footer class="footer">
+
+    </footer>
+
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro omnis hic corrupti delectus ab dicta minus sint animi exercitationem dignissimos mollitia distinctio earum repellendus, soluta amet fugiat odio. Tempora deserunt voluptas vitae, iste ex necessitatibus. Quasi et veniam consequuntur ut ipsum repellendus autem quidem odit dolorem dignissimos vero, natus, alias cumque culpa pariatur. Aut magnam et, velit, expedita ab est impedit nulla eveniet iste exercitationem, accusantium cum eligendi eius odit commodi necessitatibus sequi quam blanditiis. Praesentium facilis minima impedit magni quam temporibus excepturi. Animi, tenetur. Aliquid amet incidunt placeat voluptatibus possimus exercitationem, blanditiis, aliquam atque saepe reiciendis nostrum optio natus?
 </body>
 </html>
