@@ -15,7 +15,30 @@ $wew = "wew";
 </head>
 <body>
     <header class="header">
-        momonja
+        <nav>
+            <a href="/" class="header__home">momonja</a>
+
+            <a href="">
+                <img src="assets\images\icon-github.svg" 
+                alt="GitHub"
+                width="24.61"
+                height="24"
+            /></a>
+
+            <a href="">
+                <img src="assets\images\icon-linkedin.svg" 
+                alt="LinkedIn"
+                width="24"
+                height="24"
+            /></a>
+
+            <a href="">
+                <img src="assets\images\icon-twitter.svg" 
+                alt="Twitter"
+                width="23.28"
+                height="18.93"
+            /></a>
+        </nav>
     </header>
     
     <main class="main">
