@@ -39,6 +39,14 @@ a:hover{
     color: var(--accent);
 }
 
+.header__social {
+    display: inline-block;
+}
+
+.header__social:hover > svg > path{
+    fill: var(--accent);
+}
+
 .wrapper{
     width: calc(100% - 2rem);
     max-width: var(--container);
